@@ -702,7 +702,7 @@
             ambiguous, somewhat disagreeable name. Corinna? The teacher of Pindar. Olive Schreiner,
             growing up on the veldt, wrote one book, married happily, and never wrote another.
             <persName key="Kate Chopin" ref="http://www.wikidata.org/entity/Q230476" cert="high" type="real">Kate Chopin</persName> wrote a scandalous book and never wrote another. (Jean has written nothing.)
-            There was <persName key="Mary Shelley" ref="http://www.wikidata.org/entity/Q47152">M-ry Sh-ll-y</persName> who wrote you know what and Ch-rl-tt- P-rk-ns G-lm-n, who wrote
+            There was <persName key="Mary Shelley" ref="http://www.wikidata.org/entity/Q47152">M-ry Sh-ll-y</persName> who wrote you know what and <persName cert="low" type="real">Ch-rl-tt- P-rk-ns G-lm-n</persName>, who wrote
             one superb horror story and lots of sludge (was it sludge?), and Ph-Il-s Wh--tl-y who
             was black and wrote eighteenth-century odes (but it was the eighteenth century) and
             Mrs. -nn R-dcl-ff- who wrote silly novels and M-rg-r-t C-v-nd-sh and Mrs.-d-n S--thw-rth
